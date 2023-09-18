@@ -4,5 +4,6 @@
 3.  in login page you can click on doctor and book your appointment as per your required and  also there is an option for doctor to apply for a doctor profile.
 4.  once you  will book your appointment doctor will  accept your appointment and you will get a notfication regarding your booking status, your booking is approved.
 5.  if you are apply for a doctor profile then admin will received your request and approved your request and you will be  able to add your details on profile section. 
-6.  
+6.  i have provided the link below
+7.  https://doctorapp-r99y.onrender.com/
    
